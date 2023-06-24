@@ -34,3 +34,6 @@ Lines of Code:	135
 Overcomplicated code (i.e. can be converted to ternary):	0
 Dead code (i.e. unused variables):	0
 Overall total errors:	0
+
+<h2>Nahom Anteneh</h2>
+<h2>ID: 1404607</h2>
