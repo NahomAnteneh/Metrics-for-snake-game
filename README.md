@@ -26,11 +26,11 @@ To calculate coupling, you need to analyze the code and identify the dependencie
 
 Metrics	Actual
 Time taken (in minutes):	1
-Cyclomatic complexity:	20
-inheritance level:  0
-maintainablity:  -
-coupling:  -
-Lines of Code:	135
+Cyclomatic complexity:	25
+inheritance level:  1
+maintainablity:  83
+coupling:  9
+Lines of Code:	152
 Overcomplicated code (i.e. can be converted to ternary):	0
 Dead code (i.e. unused variables):	0
 Overall total errors:	0
