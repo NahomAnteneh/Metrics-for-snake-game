@@ -17,23 +17,23 @@ The formula for calculating the Maintainability Index (MI) is:
 MI = 171 - 5.2 * ln(Halstead Volume) - 0.23 * (Cyclomatic Complexity) - 16.2 * ln(Lines of Code)
 Note: Halstead Volume is a measure of the program's complexity based on the number of unique operators and operands.
 
-Calculating Inheritance Level:
+<strong>Calculating Inheritance Level:</strong>
 The inheritance level refers to the depth or hierarchy of classes involved in inheritance relationships within a software system. It measures the number of ancestor classes that a given class has.
 
-Calculating Coupling:
+<strong>Calculating Coupling:</strong>
 Coupling is a measure of how interconnected different components or modules of a software system are. It indicates the level of dependency between components and the potential impact of changes in one component on others.
 To calculate coupling, you need to analyze the code and identify the dependencies between different modules or classes. This can include method invocations, variable references, and data sharing between components.
 
-Metrics	Actual
-Time taken (in minutes):	1
-Cyclomatic complexity:	25
-inheritance level:  1
-maintainablity:  83
-coupling:  9
-Lines of Code:	152
-Overcomplicated code (i.e. can be converted to ternary):	0
-Dead code (i.e. unused variables):	0
-Overall total errors:	0
+<strong>Metrics	Actual</strong>
+- Time taken (in minutes):	1
+- Cyclomatic complexity:	25
+- Inheritance level:  1
+- Maintainablity:  83
+- Coupling:  9
+- Lines of Code:	152
+- Overcomplicated code (i.e. can be converted to ternary):	0
+- Dead code (i.e. unused variables):	0
+- Overall total errors:	0
 
 <h2>Nahom Anteneh</h2>
 <h2>ID: 1404607</h2>
